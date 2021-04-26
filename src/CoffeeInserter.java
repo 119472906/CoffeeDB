@@ -1,6 +1,8 @@
 import java.util.Scanner;
 import java.sql.*;
 
+//Added all files to remote git***
+
 /**
   This program lets the user insert a row into the
   CoffeeDB database's Coffee table.
