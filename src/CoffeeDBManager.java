@@ -1,5 +1,7 @@
 import java.sql.*;
 
+//Seeing how to do a fetch!!
+
 /**
    The CoffeeDBManager class performs operations on
    the CoffeeDB database.
